@@ -4,7 +4,7 @@
 
 • 🧲 I'm an effective team player, highly communicative and cooperative!
 
-• 🎯 I love to face challenges, reach new heights and I believe than I can be a valuable asset to any team.
+• 🎯 I love to face challenges, reach new heights, and believe I can be a valuable asset to any team.
 
 • 🏆 I recently built a clone of Trello, **check it out**, it has everything! [Frello](https://frello-urbc.onrender.com)
 
