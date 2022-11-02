@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bar Ohayon 👋</h1>
-<h3 align="center">I'm looking for a Junior Frontend / Full-Stack web Developer position</h3>
+<h3 align="center">I'm looking for a Frontend / Full-Stack web Developer position</h3>
 
 
 • 🧲 I'm an effective team player, highly communicative and cooperative!
