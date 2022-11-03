@@ -12,7 +12,7 @@
 
 • 📫 You can reach me at **ohayonzzb@gmail.com**
 
-• 🔮 On my spare time, I love to run, medidate and expand my skills.
+• 🔮 In my spare time, I love to run, medidate and expand my skills.
 
 
 <h3 align="left">Find me on:</h3>
